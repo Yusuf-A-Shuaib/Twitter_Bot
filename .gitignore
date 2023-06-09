@@ -1,0 +1,6 @@
+secret.txt
+/secret.py
+*.env
+.env
+/.env
+safe
